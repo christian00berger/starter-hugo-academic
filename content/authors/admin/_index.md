@@ -1,6 +1,6 @@
 ---
 title: Chris
-role: Graduate Student
+role: "Graduate "
 bio: ""
 interests:
   - Artificial Intelligence
